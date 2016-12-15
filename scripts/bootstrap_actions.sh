@@ -8,3 +8,5 @@ echo -e '\nexport PATH=$HOME/conda/bin:$PATH' >> $HOME/.bashrc && source $HOME/.
 
 # install packages
 conda install -y ipython jupyter
+conda install numpy
+conda install pandas
