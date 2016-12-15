@@ -1,10 +1,10 @@
 emr:
   aws_access_key: <AWS Access Key>
   aws_secret_access_key: <AWS Secret Access Key>
-  region_name: <Region Name>
+  region_name: <Region Name> e.g., us-east-1
   cluster_name: <Cluster Name>
   instance_count: <Number of Instances>
   key_name: <Ec2 Keyname>
-  log_uri: s3://<Your S3 Location to the Logs>
+  log_uri: s3://<Your S3 Location to the Logs> e.g., s3://sparklogscr
   software_version: <emr-5.x.x>
   script_bucket_name: <Name of Bucket to be created on S3>
