@@ -12,3 +12,4 @@ conda install matplotlib
 conda install numpy
 conda install pandas
 conda install seaborn
+conda install bokeh
