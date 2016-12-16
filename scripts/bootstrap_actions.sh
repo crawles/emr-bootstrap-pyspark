@@ -11,3 +11,4 @@ conda install -y ipython jupyter
 conda install matplotlib
 conda install numpy
 conda install pandas
+conda install seaborn
