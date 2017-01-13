@@ -9,7 +9,7 @@ This code should help to jump start PySpark with Anaconda on AWS.
 
 Extra notes:
 
-In order to SSH into cluster, need to go to EC2 -> master node -> Security Group -> Enable SSH access/Open Custom Jupyter notebook HTTPS port 8888 - 8898
+In order to SSH into cluster, need to go to EC2 -> master node -> Security Group -> Enable SSH access/Open Custom TCP Rule Jupyter notebook HTTPS port 8888 - 8898
 
 ## Requirements
 - [Anaconda 3](https://www.continuum.io/downloads)
